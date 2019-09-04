@@ -1,3 +1,10 @@
+.docker/cache/
+.docker/data/
+.idea/
+
+.bash_history
+.env
+
 /.web-server-pid
 /app/config/parameters.yml
 /build/
@@ -15,9 +22,3 @@
 !var/SymfonyRequirements.php
 /vendor/
 /web/bundles/
-/.docker
-
-../.idea
-
-.env
-.bash_history
