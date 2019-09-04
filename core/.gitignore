@@ -15,8 +15,9 @@
 !var/SymfonyRequirements.php
 /vendor/
 /web/bundles/
-../.idea/
-.git/
 /.docker
+
+../.idea
+
 .env
 .bash_history
