@@ -12,3 +12,6 @@ exit
 bin/console 
 bin/console 
 exit
+composer install
+exit
+exit
